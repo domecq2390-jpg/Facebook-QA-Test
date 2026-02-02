@@ -25,4 +25,3 @@ This project demonstrates manual QA testing performed on the Facebook web applic
 - Bug Reports
 - Exploratory Testing Notes
 
-This project demonstrates real-world QA documentation, test design, and defect reporting.
